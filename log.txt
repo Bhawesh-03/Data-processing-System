@@ -1,0 +1,38 @@
+Apr 14, 2025 7:49:04 PM DataProcessingSystem$Worker run
+INFO: Worker 2 started.
+Apr 14, 2025 7:49:04 PM DataProcessingSystem$Worker run
+INFO: Worker 1 started.
+Apr 14, 2025 7:49:04 PM DataProcessingSystem$Worker run
+INFO: Worker 3 started.
+Apr 14, 2025 7:49:04 PM DataProcessingSystem$Worker run
+INFO: Worker 0 started.
+Apr 14, 2025 7:49:05 PM DataProcessingSystem$Worker processTask
+INFO: Worker 0 processed Task-3
+Apr 14, 2025 7:49:05 PM DataProcessingSystem$Worker processTask
+INFO: Worker 3 processed Task-4
+Apr 14, 2025 7:49:05 PM DataProcessingSystem$Worker processTask
+INFO: Worker 2 processed Task-1
+Apr 14, 2025 7:49:05 PM DataProcessingSystem$Worker processTask
+INFO: Worker 1 processed Task-2
+Apr 14, 2025 7:49:06 PM DataProcessingSystem$Worker processTask
+INFO: Worker 0 processed Task-5
+Apr 14, 2025 7:49:06 PM DataProcessingSystem$Worker processTask
+INFO: Worker 1 processed Task-7
+Apr 14, 2025 7:49:06 PM DataProcessingSystem$Worker processTask
+INFO: Worker 3 processed Task-6
+Apr 14, 2025 7:49:06 PM DataProcessingSystem$Worker run
+INFO: Worker 3 finished.
+Apr 14, 2025 7:49:06 PM DataProcessingSystem$Worker processTask
+INFO: Worker 2 processed Task-8
+Apr 14, 2025 7:49:06 PM DataProcessingSystem$Worker run
+INFO: Worker 2 finished.
+Apr 14, 2025 7:49:07 PM DataProcessingSystem$Worker processTask
+INFO: Worker 0 processed Task-9
+Apr 14, 2025 7:49:07 PM DataProcessingSystem$Worker processTask
+INFO: Worker 1 processed Task-10
+Apr 14, 2025 7:49:07 PM DataProcessingSystem$Worker run
+INFO: Worker 0 finished.
+Apr 14, 2025 7:49:07 PM DataProcessingSystem$Worker run
+INFO: Worker 1 finished.
+Apr 14, 2025 7:49:07 PM DataProcessingSystem main
+INFO: All worker threads completed.
